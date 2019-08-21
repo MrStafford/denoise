@@ -2,10 +2,16 @@
 
 It applies a medium filter to a csv file and generates a filtered data csv and both an unfiltered and filtered plot of the data.
 
+## Requirements
+
+1. Python3 (https://www.python.org/downloads/)
+
 ## Install
 
 ```bash
-  run python3 setup.py install
+  git clone https://github.com/MrStafford/denoise.git
+  cd denoise
+  pip3 install -r requirements.txt
 ```
 
 ## Usage
